@@ -11,5 +11,5 @@
 ![Deatils&UpadteHero](details.png)
 ![SearchFeature](SearchFeature.png)
 ![Deletehero](deletehero.png)
-![AddHero](addhero.png)
-![HeroAdded](addhero2.png)
+![AddHero](Addhero.png)
+![HeroAdded](Addhero2.png)
